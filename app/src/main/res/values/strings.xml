@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Main Config -->
+    <string name="app_name">MoviedbApi_App</string>
+
+    <!-- MovieList Controller -->
+    <string name="noConnection">Unable to fetch data from server.</string>
+    <string name="loadingMore">Loading more…</string>
+
+    <!-- MovieDetails Controller -->
+    <string name="min">min.</string>
+    <string name="voteCount">votes</string>
+    <string name="noOverview">Sorry, currently there is no overview for this movie.</string>
+    <string name="noBiography">Sorry, currently there is no biography for this actor.</string>
+    <string name="relatedMovies">RELATED MOVIES</string>
+    <string name="relatedTV">RELATED TV SHOWS</string>
+
+    <!-- CastDetails -->
+    <string name="alsoKnownAs">Also known as:</string>
+    <string name="knownFor">KNOWN FOR</string>
+    <string name="showMore">SHOW ALL</string>
+
+    <!-- TVDetails -->
+    <string name="type">Type:</string>
+    <string name="firstAirDate">First air date:</string>
+    <string name="lastAirDate">Last air date:</string>
+    <string name="numberOfEpisodes">Number of episodes:</string>
+    <string name="numberOfSeasons">Number of seasons:</string>
+
+    <!-- About View -->
+    <string name="aboutApp" translatable="false">This App is Build By "Deesha Trade Endeavours" INTERN "SHIVAYOGI H C"</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Movies</item>
+        <item>TV shows</item>
+        <item>Genres</item>
+        <item>About</item>
+    </string-array>
+
+    <!-- ActionBar titles -->
+    <string name="moviesTitle">Movies</string>
+    <string name="tvTitle">TV shows</string>
+    <string name="genresTitle">Genres</string>
+
+    <!-- Movies tabs -->
+    <string-array name="moviesTabs">
+        <item>Upcoming</item>
+        <item>Now Playing</item>
+        <item>Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+
+    <!-- TV tabs -->
+    <string-array name="tvTabs">
+        <item>On the Air</item>
+        <item>Airing Today</item>
+        <item>Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+
+    <!-- detailTabs tabs -->
+    <string-array name="detailTabs">
+        <item>Info</item>
+        <item>Cast</item>
+        <item>Overview</item>
+    </string-array>
+
+    <!-- Cast detailTabs tabs -->
+    <string-array name="castDetailTabs">
+        <item>Info</item>
+        <item>Credits</item>
+        <item>Biography</item>
+    </string-array>
+
+    <!-- Search -->
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search…</string>
+    <string name="nomoreresults">No more results.</string>
+    <string name="noResults">Sorry, no results found.</string>
+    <string name="timeout">Connection timed out, please try again</string>
+
+
+</resources>
